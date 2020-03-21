@@ -19,16 +19,16 @@ mark {
   transition: 0.3s;
   }
   .button1{
-    background-color: rgb(20, 24, 224,0.41);
+    background-color: rgba(20, 24, 224,0.41);
   }
   .button2{
-    background-color: rgb(230, 192, 26);
+    background-color: rgba(230, 192, 26,0.41);
   }
   .button3{
-    background-color: rgb(26, 230, 128);
+    background-color: rgba(26, 230, 128,0.41);
   }
   .button4{
-    background-color: rgb(230, 118, 26);
+    background-color: rgba(230, 118, 26,0.41);
   }
   .buttonNull{
     border: 1px solid black;
