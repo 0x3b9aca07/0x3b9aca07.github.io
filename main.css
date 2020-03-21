@@ -8,7 +8,7 @@ body {
 mark {
   background-color: yellow;
   color: black;
-  opacity: 0.5;
+  opacity: 0.8;
 }
 .button{
   border: 1px solid black;
@@ -16,7 +16,7 @@ mark {
   font-size: 48px;
   right: 15px;
   width:100%;
-  opacity: 0.8;
+  opacity: 1;
   transition: 0.3s;
   }
   .button:hover {opacity: 1}
