@@ -16,10 +16,10 @@ mark {
   font-size: 48px;
   right: 15px;
   width:100%;
-  opacity: 0.2;
+  opacity: 0.5;
   transition: 0.3s;
   }
-  .button:hover {opacity: 0.5}
+  .button:hover {opacity: 0.8}
   .button1{
     background-color: rgb(20, 24, 224);
   }
